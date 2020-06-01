@@ -41,10 +41,6 @@ export default class CreateClass1590782013559 implements MigrationInterface {
   }
 }
 
-
-
-
-
 /*export default class CreateClass1590782013559 implements MigrationInterface {
  name = 'createClass1590782013559';
 
